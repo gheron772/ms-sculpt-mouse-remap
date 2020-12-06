@@ -17,13 +17,13 @@ BlockInput, off
 sleep 500
 return
 ```
-</br></br>
+</br>
 ## Way 2 - Reigster compiled file to shell:startup
 2-1. Download [(mouse.exe)](https://github.com/gheron772/ms-sculpt-mouse-remap/raw/main/mouse.exe)  
 2-2. Press windows + r then type shell:startup and open  
 2-3. Copy mouse.exe into shell:startup window  
 2-4. Reboot  
-</br></br>
+</br>
 ## Donation
 If this repository is helpful  
 <a href='https://ko-fi.com/D1D02VFSG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
