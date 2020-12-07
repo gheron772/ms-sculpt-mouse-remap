@@ -1,5 +1,7 @@
 # ms-sculpt-mouse-remap
 Remap microsoft sculpt mouse tilt wheel (left, right) to (backward, forward) in windows
+**To use AutoHotkey solutions, you must not use the microsoft keyboard mouse center.**
+
 </br></br>
 ## Way 1 - Use below autohotkey script
 ```Autohotkey
