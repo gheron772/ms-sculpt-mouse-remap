@@ -22,7 +22,7 @@ return
 
 ## Way 2 - Reigster compiled file to shell:startup
 2-1. Download [(mouse.exe)](https://github.com/gheron772/ms-sculpt-mouse-remap/raw/main/mouse.exe)  
-2-2. Press windows + r then type shell:startup and open  
+2-2. Press windows + r then typing shell:startup and open  
 2-3. Copy mouse.exe into shell:startup window  
 2-4. Execute mouse.exe or Reboot  
 
